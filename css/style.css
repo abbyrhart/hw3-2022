@@ -88,7 +88,7 @@ div {
 footer {
 	background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
 	border: 5px solid #ffffff;
-	size: 20px;
+	font-size: 20px;
 	text-align: right;
 	padding-top: 15px;
 	padding-left: 15px;
